@@ -1,16 +1,58 @@
-# React + Vite
+# 🚀 React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application built using **Vite** for fast development and optimized production builds.
 
-Currently, two official plugins are available:
+## 👨‍💻 Developer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mayantha Sapumal
+Software Engineering Undergraduate
+Open University of Sri Lanka
 
-## React Compiler
+## ⚡ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ⚛️ React
+* ⚡ Vite
+* 🧠 TypeScript (optional – recommended)
+* 🧹 ESLint
+* 🔥 Hot Module Replacement (HMR)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Project Setup
+
+This project uses the official React + Vite.
+
+Currently supported plugins:
+
+* `@vitejs/plugin-react` – Uses Babel for Fast Refresh
+* `@vitejs/plugin-react-swc` – Uses SWC for Fast Refresh
+
+
+## 🧪 ESLint Configuration
+
+For production-level applications, it is recommended to:
+
+* Use **TypeScript**
+* Enable type-aware lint rules
+* Integrate `typescript-eslint`
+
+You can switch to the Vite + React + TypeScript template for enhanced maintainability.
+
+
+
+## 🚀 Features
+
+* Fast development with Vite
+* Instant HMR updates
+* Clean and scalable structure
+* Ready for large-scale applications
+
+
+## 📌 Future Improvements
+
+* Add authentication system
+* Backend API integration
+* Deploy using Vercel / Netlify
+* Implement CI/CD
+
+
+
