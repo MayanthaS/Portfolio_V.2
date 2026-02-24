@@ -49,9 +49,8 @@ You can switch to the Vite + React + TypeScript template for enhanced maintainab
 
 ## 📌 Future Improvements
 
-* Add authentication system
 * Backend API integration
-* Deploy using Vercel / Netlify
+* Deploy using  Netlify
 * Implement CI/CD
 
 
